@@ -9,7 +9,9 @@ libs (datetime, date, timedelta)
 
 concept
 
-from datetime import datetime
-from datetime import date
-from datetime import timedelta
-.......
+use for susbriprions or impimenting time dependant tasks
+
+
+# day [1]
+#collectios module
+ named tuples, defaultdict(build nested data structures)
